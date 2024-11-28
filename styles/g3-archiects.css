@@ -109,8 +109,21 @@ color: #FF900E;
 font-weight: 700;
 }
 
+.facts-card-container .card{
+    border-radius: 8px;
+    border: 1px solid #FF900E;
+   text-align: center;
+    
 
 
+
+
+}
+
+.facts-card-container{
+    display: flex;
+   justify-content: space-around;
+    
 
 
 
